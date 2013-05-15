@@ -2,7 +2,11 @@
 	$page = 'home';
 	include_once('includes/header.inc.php'); 
 ?>
-<div>Premier Ajout!</div>
+<div>
+	Premier Ajout!
+	<p>Voici le 2ème ajout fait par Git</p>
+	<ul><li>test</li></ul>
+</div>
 <div class="main_home">
 	<?php
 		/*
