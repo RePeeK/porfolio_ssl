@@ -5,7 +5,7 @@
 <div>
 	Premier Ajout!
 	<p>Voici le 2ème ajout fait par Git</p>
-	<ul><li>test</li></ul>
+	<span>adresse</span>
 </div>
 <div class="main_home">
 	<?php
